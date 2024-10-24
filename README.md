@@ -2,7 +2,9 @@
 
 This repository contains the code used to obtain and clean data for my graduate thesis in economics at the University of Chicago.
 
-The dataset is self-constructed, combining data from various sources, including the IMSLP website (for constructing a comprehensive "dictionary" of composers and compositions) and the Spotify app (for collecting data on the number of plays, music duration, and album release dates). Due to the significant amount of manual maintenance required, which cannot be fully automated even after scraping the original data, the dataset is private. It will only be shared when applying for academic programs, predoctoral positions, or other jobs (a Dropbox link to the dataset will be included in my CV, as GitHub does not support link-based access to private repositories).
+The dataset is self-constructed, combining data from various sources, including the IMSLP website (for constructing a comprehensive 'dictionary' of composers and compositions), the Spotify app (for collecting data on the number of plays, music duration, and album release dates), and several prominent orchestras and symphonies worldwide, from which their concert programs have been collected, dating back to their establishment.
+
+Due to the significant amount of manual maintenance required, which cannot be fully automated even after scraping the original data, the dataset is private. It will only be shared when applying for academic programs, predoctoral positions, or other jobs (a Dropbox link to the dataset will be included in my CV, as GitHub does not support link-based access to private repositories).
 
 Below is the list of composers, which may be subject to future revisions. Please note that some composers straddle the line between different schools of thought due to the varied styles of their work. We have followed the classification used by the IMSLP website.
 
